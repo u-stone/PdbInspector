@@ -23,6 +23,7 @@
 #include <comutil.h>
 #include <map>
 #include <vector>
+#include <string>
 using namespace std;
 
 // The following ifdef block is the standard way of creating macros which make exporting 

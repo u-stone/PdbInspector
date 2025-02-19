@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PdbParser", "PdbParser\PdbParser.vcxproj", "{5950D092-E050-43E2-8FA0-F293DE81C5A8}"
 EndProject
@@ -12,9 +12,11 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms
 		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
 		Release|Mixed Platforms = Release|Mixed Platforms
 		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Debug|Any CPU.ActiveCfg = Debug|Win32
@@ -22,21 +24,29 @@ Global
 		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Debug|Mixed Platforms.Build.0 = Debug|Win32
 		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Debug|Win32.ActiveCfg = Debug|Win32
 		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Debug|Win32.Build.0 = Debug|Win32
+		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Debug|x64.ActiveCfg = Debug|x64
+		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Debug|x64.Build.0 = Debug|x64
 		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Release|Any CPU.ActiveCfg = Release|Win32
 		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Release|Mixed Platforms.ActiveCfg = Release|Win32
 		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Release|Win32.ActiveCfg = Release|Win32
 		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Release|Win32.Build.0 = Release|Win32
+		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Release|x64.ActiveCfg = Release|x64
+		{5950D092-E050-43E2-8FA0-F293DE81C5A8}.Release|x64.Build.0 = Release|x64
 		{07613C5E-8232-4211-AE39-7424B36B3C85}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{07613C5E-8232-4211-AE39-7424B36B3C85}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
 		{07613C5E-8232-4211-AE39-7424B36B3C85}.Debug|Mixed Platforms.Build.0 = Debug|Win32
 		{07613C5E-8232-4211-AE39-7424B36B3C85}.Debug|Win32.ActiveCfg = Debug|Win32
 		{07613C5E-8232-4211-AE39-7424B36B3C85}.Debug|Win32.Build.0 = Debug|Win32
+		{07613C5E-8232-4211-AE39-7424B36B3C85}.Debug|x64.ActiveCfg = Debug|x64
+		{07613C5E-8232-4211-AE39-7424B36B3C85}.Debug|x64.Build.0 = Debug|x64
 		{07613C5E-8232-4211-AE39-7424B36B3C85}.Release|Any CPU.ActiveCfg = Release|Win32
 		{07613C5E-8232-4211-AE39-7424B36B3C85}.Release|Mixed Platforms.ActiveCfg = Release|Win32
 		{07613C5E-8232-4211-AE39-7424B36B3C85}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{07613C5E-8232-4211-AE39-7424B36B3C85}.Release|Win32.ActiveCfg = Release|Win32
 		{07613C5E-8232-4211-AE39-7424B36B3C85}.Release|Win32.Build.0 = Release|Win32
+		{07613C5E-8232-4211-AE39-7424B36B3C85}.Release|x64.ActiveCfg = Release|x64
+		{07613C5E-8232-4211-AE39-7424B36B3C85}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
